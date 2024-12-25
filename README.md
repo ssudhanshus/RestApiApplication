@@ -44,6 +44,4 @@ Further Enhancements:
 
 Security: Implement authentication and authorization using Spring Security.
 Error Handling: Improve error handling and validation.
-Transaction Management: Enhance transaction management using Spring's @Transactional annotation.
-Documentation: Generate API documentation using tools like Swagger or SpringDoc.
 Testing: Write more comprehensive unit and integration tests.
