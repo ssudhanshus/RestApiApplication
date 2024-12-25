@@ -1,4 +1,4 @@
-*RestApiApplication*
+#*RestApiApplication*
 
 This project implements a simple RESTful API for a basic banking system using Spring Boot, Spring Data JPA, and PostgreSQL.
 
