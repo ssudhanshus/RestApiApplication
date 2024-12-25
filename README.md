@@ -56,11 +56,3 @@ Build the project: mvn clean install
 Run the application:1 mvn spring-boot:run   
 
 Access the API: Use a REST client (e.g., Postman, cURL) to interact with the API endpoints.
-
-**Further Enhancements:**
-
-**Security:** Implement authentication and authorization using Spring Security.
-
-**Error Handling:** Improve error handling and validation.
-
-**Testing:** Write more comprehensive unit and integration tests.
