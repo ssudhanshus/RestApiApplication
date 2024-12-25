@@ -7,12 +7,15 @@ This project implements a simple RESTful API for a basic banking system using Sp
 **Customer Management:**
 Register new customers with basic personal details and an initial balance.
 Retrieve customer details by ID.
+
 **Transaction Management:**
 Perform debit transactions, deducting funds from the customer's balance.
 Perform credit transactions, adding funds to the customer's balance.
 Record transaction details (type, amount, description) for each transaction.
+
 **Transaction Filtering:**
 Filter transactions by customer ID, type ("debit" or "credit"), and amount range.
+
 **Data Persistence:**
 Utilizes PostgreSQL as the underlying database.
 Uses JPA and Hibernate for object-relational mapping.
