@@ -28,22 +28,31 @@ Returns JSON responses for API requests.
 **Technologies Used:**
 
 **Spring Boot:** Framework for building Spring-based applications.
+
 **Spring Data JPA:** Simplifies JPA data access with Spring.
+
 **Hibernate:** Object-relational mapping (ORM) framework.
+
 **PostgreSQL:** Relational database system.
+
 **Java:** Programming language.
+
 **Maven:** Build automation and dependency management tool.
 
 **Project Structure:**
 
 src/main/java: Contains Java source code (entities, repositories, services, controllers).
+
 src/main/resources: Contains configuration files (application.properties).
+
 src/test/java: Contains ....
 
 **Getting Started:**
 
 Clone the repository: git clone https://github.com/ssudhanshus/RestApiApplication
+
 Build the project: mvn clean install
+
 Run the application:1 mvn spring-boot:run   
 
 Access the API: Use a REST client (e.g., Postman, cURL) to interact with the API endpoints.
@@ -51,5 +60,7 @@ Access the API: Use a REST client (e.g., Postman, cURL) to interact with the API
 **Further Enhancements:**
 
 **Security:** Implement authentication and authorization using Spring Security.
+
 **Error Handling:** Improve error handling and validation.
+
 **Testing:** Write more comprehensive unit and integration tests.
