@@ -1,13 +1,13 @@
-package com.example.Controller;
+package com.example.Bank.Controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import com.example.Entity.Customer;
-import com.example.Entity.Transaction;
-import com.example.Service.BankService;
+import com.example.Bank.Entity.Customer;
+import com.example.Bank.Entity.Transaction;
+import com.example.Bank.Service.BankService;
 
 import java.util.List;
 
