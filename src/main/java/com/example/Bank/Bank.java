@@ -1,13 +1,13 @@
-package com.example.BankApiApplication;
+package com.example.Bank;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BankApiApplication {
+public class Bank {
 
     public static void main(String[] args) {
-        SpringApplication.run(BankApiApplication.class, args);
+        SpringApplication.run(Bank.class, args);
     }
 
 }

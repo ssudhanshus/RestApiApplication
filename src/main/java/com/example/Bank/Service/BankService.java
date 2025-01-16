@@ -1,12 +1,12 @@
-package com.example.Service;
+package com.example.Bank.Service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.example.Entity.Customer;
-import com.example.Entity.Transaction;
-import com.example.Repository.CustomerRepository;
-import com.example.Repository.TransactionRepository;
+import com.example.Bank.Entity.Customer;
+import com.example.Bank.Entity.Transaction;
+import com.example.Bank.Repository.CustomerRepository;
+import com.example.Bank.Repository.TransactionRepository;
 
 import java.util.List;
 
